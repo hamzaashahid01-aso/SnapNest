@@ -1,0 +1,18 @@
+﻿{
+  "permissions": {
+    "allow": [
+      "Skill(app-builder)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\SULEMAN\\\\Downloads\\\\Assignments Batch 3\\\\Alex\\\\SnapNest\\\\backend\\\\src\\\\controllers\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\SULEMAN\\\\Downloads\\\\Assignments Batch 3\\\\Alex\\\\SnapNest\\\\backend\\\\src\\\\middleware\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\SULEMAN\\\\Downloads\\\\Assignments Batch 3\\\\Alex\\\\SnapNest\\\\backend\\\\src\\\\routes\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\SULEMAN\\\\Downloads\\\\Assignments Batch 3\\\\Alex\\\\SnapNest\\\\backend\\\\src\\\\utils\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\SULEMAN\\\\Downloads\\\\Assignments Batch 3\\\\Alex\\\\SnapNest\\\\backend\\\\prisma\")",
+      "Bash(grep -E \"\\\\.env$\")",
+      "Skill(brainstorming)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "code-review-graph"
+  ]
+}
